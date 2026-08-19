@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=220&section=header&text=AADI&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20%E2%86%92%20AI%20Agent%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6D28D9&height=220&section=header&text=DEVARSHI(AADI)&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20%E2%86%92%20AI%20Agent%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
