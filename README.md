@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://x.com/0xAadiii"><img src="https://img.shields.io/badge/X-@zen_aadi-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/zen_aadi"><img src="https://img.shields.io/badge/X-@zen_aadi-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://github.com/Heisen111"><img src="https://img.shields.io/badge/GitHub-Heisen111-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
